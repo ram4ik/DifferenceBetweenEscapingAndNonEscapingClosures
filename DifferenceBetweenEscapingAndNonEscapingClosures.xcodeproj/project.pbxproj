@@ -13,6 +13,7 @@
 		9585D09423FEBA9C003A5CC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9585D09323FEBA9C003A5CC0 /* Assets.xcassets */; };
 		9585D09723FEBA9C003A5CC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9585D09623FEBA9C003A5CC0 /* Preview Assets.xcassets */; };
 		9585D09A23FEBA9C003A5CC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9585D09823FEBA9C003A5CC0 /* LaunchScreen.storyboard */; };
+		9585D0A223FEBFAA003A5CC0 /* EscapingClosure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A123FEBFAA003A5CC0 /* EscapingClosure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9585D09623FEBA9C003A5CC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9585D09923FEBA9C003A5CC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9585D09B23FEBA9C003A5CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9585D0A123FEBFAA003A5CC0 /* EscapingClosure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingClosure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9585D09823FEBA9C003A5CC0 /* LaunchScreen.storyboard */,
 				9585D09B23FEBA9C003A5CC0 /* Info.plist */,
 				9585D09523FEBA9C003A5CC0 /* Preview Content */,
+				9585D0A123FEBFAA003A5CC0 /* EscapingClosure.swift */,
 			);
 			path = DifferenceBetweenEscapingAndNonEscapingClosures;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				9585D08E23FEBA9A003A5CC0 /* AppDelegate.swift in Sources */,
 				9585D09023FEBA9A003A5CC0 /* SceneDelegate.swift in Sources */,
 				9585D09223FEBA9A003A5CC0 /* ContentView.swift in Sources */,
+				9585D0A223FEBFAA003A5CC0 /* EscapingClosure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
